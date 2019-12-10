@@ -4,3 +4,4 @@
 =======
 "More text"
 >>>>>>> 98bcf1ed434eba70f95053a9f945483dd880c983
+"Again more text"
